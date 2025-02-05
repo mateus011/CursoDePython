@@ -18,7 +18,7 @@
 
 #  Maior ou igual a 40 | Obesidade grau III (mórbida)]
 
-peso = float(input("coloque o seu peso : "))  # pegando o peso atraves do input
+peso = float(input("coloque o seu peso : "))# pegando o peso atraves do input
 altura = float(input("coloque a sua altura : "))  # pegando o altura atraves do input
 
 #calcular o IMC
