@@ -1,2 +1,3 @@
 # CursoDePython
-repositório para treinar oque aprendi no curso
+#Repositorio para por em Pratica aquilo que aprendi no curso de Python
+
