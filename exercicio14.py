@@ -1,4 +1,4 @@
-# trabalhando com arrays
+# trabalhando com arrays , é set
 from array import array  # inportando o modulo
 
 def trasform_list():
@@ -42,7 +42,7 @@ def updateset():
 def removeset():
   l1 = {1,2,3,4,5,6,9}
   num = int(input('Coloque o numero de deseja remover: '))
-  l1.remove(num)
+  l1.remove(num)  # remove o  numero da setlist
   print(l1)
 
-removeset()
+
