@@ -1,4 +1,4 @@
-# concatenando listas
+# manipulando  listas
 
 def jutando_listas():
     numeros = [1,2,3,4,5,6,7,8,9]

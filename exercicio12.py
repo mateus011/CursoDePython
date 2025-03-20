@@ -1,4 +1,4 @@
-# creianção de uma lista 
+# crianção de uma lista 
 def inserir_numlist():
     numeros =  [1,2,3,4,5,6,7,8,9] #tabela type list
     num = int(input('coloque um numero na lista: ')) #pegando numero do usuario
