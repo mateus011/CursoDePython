@@ -39,7 +39,6 @@ def loopDicionarios():
     for Keys, Values in aluno.items():
        print(Keys,Values)
 
-
-
+# tirou da tupla para as variaveis Keys e values 
 
 loopDicionarios()
